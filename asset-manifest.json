@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/geobravo/static/css/main.f6b06851.css",
+    "main.js": "/geobravo/static/js/main.d7c7c389.js",
+    "static/js/453.6e1e7341.chunk.js": "/geobravo/static/js/453.6e1e7341.chunk.js",
+    "static/media/graphing.gif": "/geobravo/static/media/graphing.cce3168176f1d7610ac2.gif",
+    "static/media/calculators.gif": "/geobravo/static/media/calculators.db9a998b734e60da5841.gif",
+    "static/media/solution-steps.gif": "/geobravo/static/media/solution-steps.1517713f1655ccd194c0.gif",
+    "static/media/geometry.gif": "/geobravo/static/media/geometry.75855c90898aeb4c70b4.gif",
+    "static/media/word_problems.gif": "/geobravo/static/media/word_problems.cc07b96a9ffd66743389.gif",
+    "static/media/Fondo.jpg": "/geobravo/static/media/Fondo.5811d104df9468738f43.jpg",
+    "static/media/solution-steps.png": "/geobravo/static/media/solution-steps.e623e1cfabb2c26aaf60.png",
+    "static/media/GeoGebra.png": "/geobravo/static/media/GeoGebra.a9f800bb25d9bb6dc252.png",
+    "static/media/calculators.png": "/geobravo/static/media/calculators.cfef23b2ce59a9f5b15d.png",
+    "static/media/graphing.png": "/geobravo/static/media/graphing.8aa96946878cd72342c1.png",
+    "static/media/word_problems.png": "/geobravo/static/media/word_problems.c4efd11eb20ad41507f9.png",
+    "static/media/PascualBravo.png": "/geobravo/static/media/PascualBravo.e06a049121a0f9353dff.png",
+    "index.html": "/geobravo/index.html",
+    "main.f6b06851.css.map": "/geobravo/static/css/main.f6b06851.css.map",
+    "main.d7c7c389.js.map": "/geobravo/static/js/main.d7c7c389.js.map",
+    "453.6e1e7341.chunk.js.map": "/geobravo/static/js/453.6e1e7341.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6b06851.css",
+    "static/js/main.d7c7c389.js"
+  ]
+}
