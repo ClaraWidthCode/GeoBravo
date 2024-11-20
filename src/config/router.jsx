@@ -10,12 +10,12 @@ import TwoCurves from "../components/GeoGebra/TwoCurves";
 const AppRouter = () => {
   return (
     <Routes>
-      <Route path="PruebaProyecto/" element={<HomePage />} />
-      <Route path="PruebaProyecto/Lineal" element={<Lineal />} />
-      <Route path="PruebaProyecto/Quadratic" element={<Quadratic />} />
-      <Route path="PruebaProyecto/Cubic" element={<Cubic />} />
-      <Route path="PruebaProyecto/Onecurve" element={<OneCurve />} />
-      <Route path="PruebaProyecto/Twocurves" element={<TwoCurves />} />
+      <Route path="GeoBravo/" element={<HomePage />} />
+      <Route path="GeoBravo/Lineal" element={<Lineal />} />
+      <Route path="GeoBravo/Quadratic" element={<Quadratic />} />
+      <Route path="GeoBravo/Cubic" element={<Cubic />} />
+      <Route path="GeoBravo/Onecurve" element={<OneCurve />} />
+      <Route path="GeoBravo/Twocurves" element={<TwoCurves />} />
     </Routes>
   );
 };

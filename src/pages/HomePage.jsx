@@ -25,7 +25,7 @@ const App = () => {
         "Ingresa una función lineal para ver su representación gráfica en el plano cartesiano. ",
       image: worldProblems,
       staticImage: worldProblemsPng,
-      link: "/PruebaProyecto/lineal",
+      link: "/GeoBravo/lineal",
     },
     {
       title: "Funciones Cuadráticas",
@@ -33,7 +33,7 @@ const App = () => {
         "Ingresa una función cuadrática para ver su representación gráfica en el plano cartesiano. ",
       image: calculators,
       staticImage: calculatorsPng,
-      link: "/PruebaProyecto/Quadratic",
+      link: "/GeoBravo/Quadratic",
     },
     {
       title: "Funciones Cubicas",
@@ -41,21 +41,21 @@ const App = () => {
         "Ingresa una función cúbica para ver su representación gráfica en el plano cartesiano. ",
       image: geometry,
       staticImage: geometryPng,
-      link: "/PruebaProyecto/Cubic",
+      link: "/GeoBravo/Cubic",
     },
     {
       title: "Área bajo la curva",
       description: "Calcula el área bajo una función gráfica.",
       image: graphing,
       staticImage: graphingPng,
-      link: "/PruebaProyecto/OneCurve",
+      link: "/GeoBravo/OneCurve",
     },
     {
       title: "Área entre curvas",
       description: "Determina el área entre dos funciones gráficas.",
       image: solutionStep,
       staticImage: solutionStepPng,
-      link: "/PruebaProyecto/Twocurves",
+      link: "/GeoBravo/Twocurves",
     },
   ];
 

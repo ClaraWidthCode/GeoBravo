@@ -13,7 +13,7 @@ const MyNavbar = () => {
 
   const navigate = useNavigate();
   const location = useLocation();
-  const showBackButton = location.pathname !== "/PruebaProyecto/";
+  const showBackButton = location.pathname !== "/GeoBravo/";
 
   return (
     <>
@@ -21,7 +21,7 @@ const MyNavbar = () => {
         <Container>
           <Navbar.Brand
             as={Link}
-            to="PruebaProyecto/"
+            to="GeoBravo/"
             className="navbar-brand-custom"
             onClick={handleSelect}
           >
@@ -36,7 +36,7 @@ const MyNavbar = () => {
             <Nav className="me-auto" onSelect={handleSelect}>
               <Nav.Link
                 as={Link}
-                to="PruebaProyecto/Lineal"
+                to="GeoBravo/Lineal"
                 className="nav-link-custom"
                 onClick={handleSelect}
               >
@@ -44,7 +44,7 @@ const MyNavbar = () => {
               </Nav.Link>
               <Nav.Link
                 as={Link}
-                to="PruebaProyecto/Quadratic"
+                to="GeoBravo/Quadratic"
                 className="nav-link-custom"
                 onClick={handleSelect}
               >
@@ -52,7 +52,7 @@ const MyNavbar = () => {
               </Nav.Link>
               <Nav.Link
                 as={Link}
-                to="PruebaProyecto/Cubic"
+                to="GeoBravo/Cubic"
                 className="nav-link-custom"
                 onClick={handleSelect}
               >
@@ -60,7 +60,7 @@ const MyNavbar = () => {
               </Nav.Link>
               <Nav.Link
                 as={Link}
-                to="PruebaProyecto/Onecurve"
+                to="GeoBravo/Onecurve"
                 className="nav-link-custom"
                 onClick={handleSelect}
               >
@@ -68,7 +68,7 @@ const MyNavbar = () => {
               </Nav.Link>
               <Nav.Link
                 as={Link}
-                to="PruebaProyecto/Twocurves"
+                to="GeoBravo/Twocurves"
                 className="nav-link-custom"
                 onClick={handleSelect}
               >
@@ -84,7 +84,7 @@ const MyNavbar = () => {
         <Container fluid className="back-button-container">
           <Button
             className="back-button"
-            onClick={() => navigate("/PruebaProyecto/")}
+            onClick={() => navigate("/GeoBravo/")}
           >
             <IoIosArrowBack size={35} />
             Volver
